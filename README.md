@@ -1,6 +1,6 @@
 # TensorFlow_Lite_Face_Mask_Jetson-Nano
 ![output image]( https://qengineering.eu/images/Mask_2_Jetson.jpg )<br/>
-## TensorFlow Lite Posenet running on a Jetson Nano
+## TensorFlow Lite Face Mask detection running on a Jetson Nano
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br/><br/>
 A fast C++ implementation of TensorFlow Lite Face Mask detector on a Jetson Nano.<br/>
 Once overclocked to 2015 MHz, the app runs at 14 FPS.<br/><br/>
