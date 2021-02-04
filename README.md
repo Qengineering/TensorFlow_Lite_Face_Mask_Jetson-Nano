@@ -5,7 +5,7 @@
 A fast C++ implementation of TensorFlow Lite Face Mask detector on a Jetson Nano.<br/>
 Once overclocked to 2015 MHz, the app runs at 14 FPS.<br/><br/>
 You could call this Face Mask detection ___2.0___.<br/>
-The network used is a re-trained MobileNet V1 SSD. It has three classes: no maks, a mask, and wearing a mask incorrectly.<br/>
+The network used is a re-trained MobileNet V2 SSD. It has three classes: no maks, a mask, and wearing a mask incorrectly.<br/>
 Although the latter category is not very convincing, given the small size of training samples.<br/>
 It's not the usual cascade of the two deep learning models, one face recognition and a second one that detects the masks.<br/>
 This one model now recognizes not only the white masks, but also the black, colored and fancy masks.<br/> 
