@@ -15,8 +15,8 @@ Although it can detect more faces/masks in the same scene, the best result is st
 ## Benchmark.
 | Model | CPU 2015 MHz | CPU 1479 MHz | RPi 4 64os 1950 MHz |
 |  :------------: |  :------------: | :-------------: | :-------------: |
-| ssd_mobilenet_v2.tflite | 14.0 FPS | 11.4 FPS | 8.57 FPS |
-| ssd_mobilenet_v2_fpnlite.tflite |  10.8 FPS | 8.5 FPS | 6.4 FPS |
+| ssd_mobilenet_v2.tflite | 14.0 FPS | 11.4 FPS | 8.1 FPS |
+| ssd_mobilenet_v2_fpnlite.tflite |  10.8 FPS | 8.5 FPS | 6.3 FPS |
 
 
 Special made for a Jetson Nano see [Q-engineering deep learning examples](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html) <br/>
